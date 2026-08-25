@@ -4,6 +4,7 @@ date: "2026-08-25"
 description: "How to manage root privileges asynchronously without sacrificing sandbox security in Wayland and Polkit architectures while building a modern desktop tool or package manager."
 tags: "linux, tauri, rust, polkit, wayland, security, archlinux, development"
 banner: "https://i.hizliresim.com/affx1lgn.png"
+image: "https://i.hizliresim.com/affx1lgn.png"
 ---
 
 When it comes to building performant desktop applications with web technologies, Tauri stands out with its low memory consumption and Rust-based secure backend architecture. If you're building a classic To-Do app or an API client, everything is great. However, when you need to delve into the operating system's nervous system—for instance, building a desktop package manager that communicates with pacman or paru for Arch Linux—the rules of the game change completely.
