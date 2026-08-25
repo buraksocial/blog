@@ -3,6 +3,7 @@ title: "Tauri ve Rust ile Linux'ta Sınırları Aşmak: Native OS Entegrasyonu v
 date: "2026-08-25"
 description: "Modern bir masaüstü aracı veya paket yöneticisi geliştirirken, Wayland ve Polkit mimarilerinde güvenlikten (sandbox) ödün vermeden root yetkileri asenkron olarak nasıl yönetilir?"
 tags: "linux, tauri, rust, polkit, wayland, security, archlinux, development"
+banner: ""
 ---
 
 Web teknolojileriyle performanslı masaüstü uygulamaları geliştirmek söz konusu olduğunda Tauri, düşük bellek tüketimi ve Rust tabanlı güvenli backend mimarisiyle öne çıkıyor. Klasik bir To-Do uygulaması veya API istemcisi yapıyorsanız her şey harikadır. Ancak iş işletim sisteminin sinir sistemine inmeye geldiğinde —örneğin Arch Linux için pacman veya paru ile haberleşen bir masaüstü paket yöneticisi inşa ederken— oyunun kuralları tamamen değişir.
